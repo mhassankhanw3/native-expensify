@@ -1,0 +1,74 @@
+[
+    ✈️ - Airplane
+🚗 - Car
+🚆 - Train
+🚌 - Bus
+🚢 - Ship
+🚴‍♂️ - Man Biking
+🚴‍♀️ - Woman Biking
+🚶‍♂️ - Man Walking
+🚶‍♀️ - Woman Walking
+🏖️ - Beach with Umbrella
+⛰️ - Mountain
+🌇 - Sunset Over Buildings
+🌄 - Sunrise Over Mountains
+🗽 - Statue of Liberty
+🏰 - Castle
+🌉 - Bridge at Night
+🏞️ - National Park
+🏝️ - Desert Island
+🌍 - Earth Globe Europe-Africa
+🌎 - Earth Globe Americas
+🌏 - Earth Globe Asia-Australia
+Groceries:
+
+🍎 - Red Apple
+🍇 - Grapes
+🍌 - Banana
+🥕 - Carrot
+🍅 - Tomato
+🥦 - Broccoli
+🍞 - Bread
+🥖 - Baguette Bread
+🥚 🧀 Wedge
+🥓 🥩 Bone Steak
+🍔 🍕 🍟 
+🍗 
+🍖 
+🍤 
+🍦 
+🍧 
+🍨 
+🍩 🍪 🍫
+🍬 🍭 🥤
+🍷 
+🍸 
+🍺 
+🍵 
+🍶 🍺 
+🍻 
+🥂 
+🍷 
+🥃 
+🍸 
+🍹 
+🧃 
+🥤
+🥛
+🍼
+🥄
+🍴 
+🍽️
+]
+
+
+{"navigation":
+
+{
+   "addListener": [Function addListener], "canGoBack": [Function canGoBack], "dispatch": [Function dispatch], "getId": [Function getId],
+   "getParent": [Function getParent], "getState": [Function anonymous], "goBack": [Function anonymous], "isFocused": [Function isFocused],
+   "navigate": [Function anonymous], "pop": [Function anonymous], "popToTop": [Function anonymous], "push": [Function anonymous],
+   "removeListener": [Function removeListener], "replace": [Function anonymous], "reset": [Function anonymous], "setOptions": [Function setOptions], "setParams": [Function anonymous]
+}
+
+ , "route": {"key": "TripExpenses-7AG2PAjrXxabHdJg3YWXN", "name": "TripExpenses", "params": {"Country": "India", "Place": "Mumbai", "id": 2}, "path": undefined}}

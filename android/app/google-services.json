@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "965457606753",
+      "project_id": "native-expensify-68792",
+      "storage_bucket": "native-expensify-68792.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:965457606753:android:7feeb5113b146ce47bd220",
+          "android_client_info": {
+            "package_name": "com.expensify"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCglQpsrXQUaX1d3zZ-n7mKNEuB_OP6BRA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
